@@ -1,17 +1,17 @@
 # Site settings
 description: A place to talk about what I am learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://mwwolters.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mark Wolters
-user_description: 
+user_description: An IT Security Professional
 user_title: IT Security Professional
 email: mwwolters@gmail.com
 twitter_username: mwwolters
 github_username:  mwwolters
 gplus_username:  mwwolters
-#disqus_username: lorem_ipsum
+disqus_username: lorem_ipsum
 
 # Build settings
 markdown: kramdown
