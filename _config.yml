@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mwwolters.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mark Wolters
+username: test
 user_description: An IT Security Professional
 user_title: IT Security Professional
 email: mwwolters@gmail.com
