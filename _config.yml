@@ -1,6 +1,6 @@
 # Site settings
 description: A place to talk about what I am learning
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
+baseurl: "/mwwolters.github.io" # the subpath of your site, e.g. /blog
 url: "http://mwwolters.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
